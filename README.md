@@ -6,9 +6,9 @@ Calendar are apps that use it.
 
 | App | Version | Android | Mac |
 | --- | --- | --- | --- |
-| **UUOB** | 0.1.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.1.1/UUOB-0.1.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.1.1/UUOB-0.1.1-mac.dmg) |
-| **Tasks** | 0.1.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.1.1/Tasks-0.1.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.1.1/Tasks-0.1.1-mac.dmg) |
-| **Calendar** | 0.1.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.1/Calendar-0.1.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.1/Calendar-0.1.1-mac.dmg) |
+| **UUOB** | 0.1.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.1.2/UUOB-0.1.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.1.2/UUOB-0.1.2-mac.dmg) |
+| **Tasks** | 0.1.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.1.2/Tasks-0.1.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.1.2/Tasks-0.1.2-mac.dmg) |
+| **Calendar** | 0.1.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.2/Calendar-0.1.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.2/Calendar-0.1.2-mac.dmg) |
 
 ## Installing
 

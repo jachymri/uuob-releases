@@ -1,19 +1,19 @@
 {
   "name": "Calendar",
-  "version": "0.1.1",
-  "pub_date": "2026-11-14T13:32:01Z",
+  "version": "0.1.2",
+  "pub_date": "2026-11-14T13:46:49Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.1/Calendar-0.1.1-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2N0cWxyWmhNZ2JEU1dWSWRnSUpUSE5UdzRvRmFpbGxKS0VONkVXdFNUUGthQTYxSURLL0JMUm9weG1VQk9WVVBBRzZORGxLMlFwcUduaVExS1AwOGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjYzMDY3CWZpbGU6Q2FsZW5kYXItMC4xLjEtYXJtNjQuYXBrClZ3bnhqK1Z0VnloVTNNQ0pNNmlQK2p5LzBHRGNjdnl6M1J3T3dSVCttN1BaelV2ZVhEVUZHRVBjNzB6OXIrL0YrS3NSeDhrNDF6R0tWMlVEQVFkN0NnPT0K"
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.2/Calendar-0.1.2-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1hTeStPdHMzaVEvQm84eXBlZTlWZTJoMFhqN1Jpc005ZHdaYUIzZFFaNFFVL1JXT280OGkxemVnMzRBQ1N6SUJjeXpqQWtzNkFOKzlWeEpXM0cyWGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjYzOTU0CWZpbGU6Q2FsZW5kYXItMC4xLjItYXJtNjQuYXBrCms0NXQrVXlxMVdEcWZsT3gyUUJXTTc4dXFuZ0JXVG9rblBDTUlLYmtiWHdPOVVKUnhJZW9RRDg2eEdkMTZYa2ZGdnBONVhCZUVrWmFVQ09JbjFKakNBPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.1/Calendar-0.1.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1UxTVFZbG5WTU53a2hhdWl6MCtraDFMMWRpaFJybVNONkFXTzhqRWdPaXRIV29jYng0c3NpaUNJTmF2alNsdXZGUEl4U3BBMlB6S0o2ZVlJUGF1dkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjYzMDg0CWZpbGU6Q2FsZW5kYXItMC4xLjEtbWFjLmFwcC50YXIuZ3oKQXdQQ1FIeW5pYmc3NzRqMEJJR1JLUytpSlhzK2xybjNBaWVRWHd5Kzc3MHlPZFBnZndGdTVGUzZsd1FKRndUSlNpZWZFbGNidUdvdG4wdjlGUXpGQUE9PQo="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.2/Calendar-0.1.2-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1RsSmtWOXkvYmNnbXp2akhTRnV3NnFTTlJxUjVjeEJwazFXOU5kSkZCUWlhL0RHN0ZMYkFkOTJ5bUhsRFdHdDNnN3R1MlY5Y2JOK20ycVlSTmpTdlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjYzOTcxCWZpbGU6Q2FsZW5kYXItMC4xLjItbWFjLmFwcC50YXIuZ3oKTmdoMzNOT3pXNnVZYXhzTkhlRDZGZ1VFZzN5SjJRR201Sno1UTFmUUYwTlM0czFvemc5TXVWUkgzMUtBakZxV3NzMVM1bHROaWZHZ3VLMExXaGVhQVE9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.1/Calendar-0.1.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1UxTVFZbG5WTU53a2hhdWl6MCtraDFMMWRpaFJybVNONkFXTzhqRWdPaXRIV29jYng0c3NpaUNJTmF2alNsdXZGUEl4U3BBMlB6S0o2ZVlJUGF1dkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjYzMDg0CWZpbGU6Q2FsZW5kYXItMC4xLjEtbWFjLmFwcC50YXIuZ3oKQXdQQ1FIeW5pYmc3NzRqMEJJR1JLUytpSlhzK2xybjNBaWVRWHd5Kzc3MHlPZFBnZndGdTVGUzZsd1FKRndUSlNpZWZFbGNidUdvdG4wdjlGUXpGQUE9PQo="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.1.2/Calendar-0.1.2-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1RsSmtWOXkvYmNnbXp2akhTRnV3NnFTTlJxUjVjeEJwazFXOU5kSkZCUWlhL0RHN0ZMYkFkOTJ5bUhsRFdHdDNnN3R1MlY5Y2JOK20ycVlSTmpTdlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjYzOTcxCWZpbGU6Q2FsZW5kYXItMC4xLjItbWFjLmFwcC50YXIuZ3oKTmdoMzNOT3pXNnVZYXhzTkhlRDZGZ1VFZzN5SjJRR201Sno1UTFmUUYwTlM0czFvemc5TXVWUkgzMUtBakZxV3NzMVM1bHROaWZHZ3VLMExXaGVhQVE9PQo="
     }
   }
 }

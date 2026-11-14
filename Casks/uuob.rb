@@ -1,6 +1,6 @@
 cask "uuob" do
-  version "0.1.2"
-  sha256 "4d1f23abec13fa7c92c7c22e9c4aefdd8b991e0b94e3585cbf303a530a85e240"
+  version "0.1.3"
+  sha256 "bb0a89dae453344b2e68e89c05cf647f0c84a886ee9803c818d0a043566339f3"
 
   url "https://github.com/jachymri/uuob-releases/releases/download/uuob-v#{version}/UUOB-#{version}-mac.dmg"
   name "UUOB"

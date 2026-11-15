@@ -6,7 +6,7 @@ Calendar and Photos are apps that use it.
 
 | App | Version | Android | Mac |
 | --- | --- | --- | --- |
-| **UUOB** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.0/UUOB-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.0/UUOB-0.2.0-mac.dmg) |
+| **UUOB** | 0.2.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.1/UUOB-0.2.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.1/UUOB-0.2.1-mac.dmg) |
 | **Tasks** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.2.0/Tasks-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.2.0/Tasks-0.2.0-mac.dmg) |
 | **Calendar** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.2.0/Calendar-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.2.0/Calendar-0.2.0-mac.dmg) |
 | **Photos** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.2.0/Photos-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.2.0/Photos-0.2.0-mac.dmg) |
@@ -37,7 +37,7 @@ Install **UUOB first**, then the other apps, all on the same device.
 ## On a server or a Raspberry Pi
 
 UUOB also runs without a window, as the `uuob` program for Linux:
-[ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.0/uuob-0.2.0-linux-arm64) or [Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.0/uuob-0.2.0-linux-amd64).
+[ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.1/uuob-0.2.1-linux-arm64) or [Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.1/uuob-0.2.1-linux-amd64).
 
 ```bash
 mv uuob-*-linux-* uuob && chmod +x uuob   # the downloaded file

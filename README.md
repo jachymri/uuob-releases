@@ -6,7 +6,7 @@ Calendar and Photos are apps that use it.
 
 | App | Version | Android | Mac |
 | --- | --- | --- | --- |
-| **UUOB** | 0.2.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.1/UUOB-0.2.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.1/UUOB-0.2.1-mac.dmg) |
+| **UUOB** | 0.2.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/UUOB-0.2.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/UUOB-0.2.2-mac.dmg) |
 | **Tasks** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.2.0/Tasks-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.2.0/Tasks-0.2.0-mac.dmg) |
 | **Calendar** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.2.0/Calendar-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.2.0/Calendar-0.2.0-mac.dmg) |
 | **Photos** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.2.0/Photos-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.2.0/Photos-0.2.0-mac.dmg) |
@@ -36,17 +36,24 @@ Install **UUOB first**, then the other apps, all on the same device.
 
 ## On a server or a Raspberry Pi
 
-UUOB also runs without a window, as the `uuob` program for Linux:
-[ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.1/uuob-0.2.1-linux-arm64) or [Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.1/uuob-0.2.1-linux-amd64).
+UUOB also runs without a window. One line installs it on Linux (Raspberry Pi OS 12 or Debian 12 and newer,
+ARM and Intel/AMD) and asks whether it should start by itself when the computer turns on; run the same
+line again to update it:
 
 ```bash
-mv uuob-*-linux-* uuob && chmod +x uuob   # the downloaded file
-./uuob run                         # this computer is now a device
-./uuob join <code>                 # in another terminal: the code from Devices → Add a device
-./uuob keep on                     # make it a storage device: it keeps a copy of everything
+curl -fsSL https://raw.githubusercontent.com/jachymri/uuob-releases/main/install.sh | sh
 ```
 
-`./uuob help` lists the other commands.
+Then join your network and, if this computer should keep a copy of everything, make it a storage device:
+
+```bash
+uuob join <code>         # the code from Devices → Add a device on your Mac or phone
+uuob keep on
+uuob autostart on|off    # start by itself when the computer turns on, or only with `uuob run`
+```
+
+`uuob help` lists the other commands. The program by itself: [ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/uuob-0.2.2-linux-arm64),
+[Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/uuob-0.2.2-linux-amd64).
 
 ## Updating
 

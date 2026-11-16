@@ -6,14 +6,18 @@ Calendar and Photos are apps that use it.
 
 | App | Version | Android | Mac |
 | --- | --- | --- | --- |
-| **UUOB** | 0.2.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/UUOB-0.2.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/UUOB-0.2.2-mac.dmg) |
-| **Tasks** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.2.0/Tasks-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.2.0/Tasks-0.2.0-mac.dmg) |
-| **Calendar** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.2.0/Calendar-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.2.0/Calendar-0.2.0-mac.dmg) |
-| **Photos** | 0.2.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.2.0/Photos-0.2.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.2.0/Photos-0.2.0-mac.dmg) |
+| **UUOB** | 0.3.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.3.0/UUOB-0.3.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.3.0/UUOB-0.3.0-mac.dmg) |
+| **Tasks** | 0.3.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.3.0/Tasks-0.3.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.3.0/Tasks-0.3.0-mac.dmg) |
+| **Calendar** | 0.3.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.3.0/Calendar-0.3.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.3.0/Calendar-0.3.0-mac.dmg) |
+| **Photos** | 0.3.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.3.0/Photos-0.3.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.3.0/Photos-0.3.0-mac.dmg) |
 
 ## Installing
 
 Install **UUOB first**, then the other apps, all on the same device.
+
+On a device that has no UUOB (a tablet, a second phone), install only the apps. In UUOB on one of your
+other devices choose **Apps → Connect with a code** and type the code into the app: it then uses your
+UUOB on your other devices, whichever of them is on.
 
 - **Android** (arm64 phones): open the link on the phone and allow your browser to install apps when asked.
 - **Android with F-Droid** (or another F-Droid app, such as Droid-ify): add this repository, then install
@@ -52,12 +56,13 @@ uuob keep on
 uuob autostart on|off    # start by itself when the computer turns on, or only with `uuob run`
 ```
 
-`uuob help` lists the other commands. The program by itself: [ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/uuob-0.2.2-linux-arm64),
-[Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/uuob-0.2.2-linux-amd64).
+`uuob help` lists the other commands. The program by itself: [ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.3.0/uuob-0.3.0-linux-arm64),
+[Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.3.0/uuob-0.3.0-linux-amd64).
 
 ## Updating
 
 Each app updates itself: when a newer version is published here, the app shows an **Update** button.
 Every update is signed, and the app checks the signature before installing it.
 
-Devices on version 0.2 and devices on 0.1 do not sync with each other: update UUOB on all your devices.
+Version 0.3 changes the code that connects an app (words instead of six digits), so update UUOB and the
+apps together. Devices on 0.3 and 0.2 sync with each other; devices on 0.1 do not sync with newer ones.

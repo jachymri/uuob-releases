@@ -1,18 +1,18 @@
 {
-  "version": "0.2.0",
-  "pub_date": "2026-11-15T15:08:44Z",
+  "version": "0.3.0",
+  "pub_date": "2026-11-16T15:06:56Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.2.0/Photos-0.2.0-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2EvU3dHeUpmQk1lR2FYZzkxMEw0Z1BWZWxVUXRqWi9YOFpvVi95UmVsRnNnd2cwZmdQUzdlcmRRQzMrZmt3SEdNRHZDMGYxaGF2V044UzR1YnkzQUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU0OTcwCWZpbGU6UGhvdG9zLTAuMi4wLWFybTY0LmFwawpQSjhLRTFwTGk0WExiOGlzV1NQS244cGkvd3BZWDE4MG1xaTVmTlliWTF1cDh2K25yVExhQTcyQlRVWjVJNVJ6WU1Md1ZHTkZVMmJBWDZWZC9GT0VDdz09Cg=="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.3.0/Photos-0.3.0-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2JRQ2ZTTlBLbTd3aUdCOU9GUU9oYTRDQVA2M1hXd3FxMlVGc29uOUVzR3puVUw2QUVKajU1dmVLdUFTN3UyeitVZEI1cTFRekIvSkpLNXJERFllQ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQxNDU1CWZpbGU6UGhvdG9zLTAuMy4wLWFybTY0LmFwawpnd3BWdG8xM0hWNFk4cWV4d3ViUGFnSksyYmFlZEk3THdvTzNVbTlNTmJkcTJDRVNSYlppejgvMWVMdGYvZlRvOW1ZV1RyeDVUMlNsZXI1akJDY3NEUT09Cg=="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.2.0/Photos-0.2.0-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1JjQjY3c0FWKzhMTk0vZDVzYXJCWlp2RGFMQVVlanZSL1BpeDluamlIK2tyYk1OQ1oyVWFZeVZGcTVuTW9IVFZ2WHpDU2ZSbENJRk5Wcm9xT21MZXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU1MjcwCWZpbGU6UGhvdG9zLTAuMi4wLW1hYy5hcHAudGFyLmd6ClI2UDlVL2MxdWJYOTVRYVJRVmxJNExRSlhxejN0WVJuS25KdzZYODJCZTZ3UHJ6bUwrOVY4Z1ZNTEh1anQ4aDlsdzE2M0MycG9RY0wxdVdJMEhQVkN3PT0K"
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.3.0/Photos-0.3.0-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2RWT1MvbURHSGttWUF4VGFiVHdMVEMzSGxqN1lWMndXamEzVGh2dFFuNm5WT21ZYXZwR0Q0OWZKVmpEUFZRV2x6ckgvQVhxUkFvK1pNa1diNGtHUGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQxNTM3CWZpbGU6UGhvdG9zLTAuMy4wLW1hYy5hcHAudGFyLmd6Cm1peUdHR1QvTnNmanR0RXZsM3hBV2VRNDl2L3puek9rd28xL3VVMWRiTERYdWFqM2hwUDh4dHM2Q1E2cHc1S2l0b1JyaW1kcVIrZ1lLa2ZrRUc0aUFRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.2.0/Photos-0.2.0-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1JjQjY3c0FWKzhMTk0vZDVzYXJCWlp2RGFMQVVlanZSL1BpeDluamlIK2tyYk1OQ1oyVWFZeVZGcTVuTW9IVFZ2WHpDU2ZSbENJRk5Wcm9xT21MZXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU1MjcwCWZpbGU6UGhvdG9zLTAuMi4wLW1hYy5hcHAudGFyLmd6ClI2UDlVL2MxdWJYOTVRYVJRVmxJNExRSlhxejN0WVJuS25KdzZYODJCZTZ3UHJ6bUwrOVY4Z1ZNTEh1anQ4aDlsdzE2M0MycG9RY0wxdVdJMEhQVkN3PT0K"
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.3.0/Photos-0.3.0-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2RWT1MvbURHSGttWUF4VGFiVHdMVEMzSGxqN1lWMndXamEzVGh2dFFuNm5WT21ZYXZwR0Q0OWZKVmpEUFZRV2x6ckgvQVhxUkFvK1pNa1diNGtHUGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQxNTM3CWZpbGU6UGhvdG9zLTAuMy4wLW1hYy5hcHAudGFyLmd6Cm1peUdHR1QvTnNmanR0RXZsM3hBV2VRNDl2L3puek9rd28xL3VVMWRiTERYdWFqM2hwUDh4dHM2Q1E2cHc1S2l0b1JyaW1kcVIrZ1lLa2ZrRUc0aUFRPT0K"
     }
   }
 }

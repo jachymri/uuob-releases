@@ -1,18 +1,18 @@
 {
-  "version": "0.2.2",
-  "pub_date": "2026-11-15T19:48:20Z",
+  "version": "0.3.0",
+  "pub_date": "2026-11-16T15:06:11Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/UUOB-0.2.2-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2I4NTJWc3poMVBpanJRMzRYTEE5QVNtVWplcElYSlM0VzFHZlZDMmRrcUhTQ2tYRnY5c1RMNmhlYzZSd1J5TWNlYWd1Zm1HNS9OYmZ3NUdWUHFIK0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzcxOTIzCWZpbGU6VVVPQi0wLjIuMi1hcm02NC5hcGsKRVBOQXNuRytwZCthYmtRa0tLbm5vSHlLVWJnaVE3bVJDTFBHT0tBeXlxZ3BQRU9oeW5XamJkQmc5Z3VCOXhheWZvclJuOTNlT2pBc3RPZDhFY3hsQVE9PQo="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.3.0/UUOB-0.3.0-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2VHMnZnR1lVS3BqRkgvMzJjcFRLbkoyRytrcVV0YmRuODJLQ3hITXBsOHJuK09qdkpibWNWS0xuWTNndFptV0IwcGdzemh0YzlGdUJhOWdTM2ZZNEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQwODUyCWZpbGU6VVVPQi0wLjMuMC1hcm02NC5hcGsKa2t5WkpYZjhTVTVVOEd0OU1KYlN2c3gyNjlBc01xQWtudkVLbWlBWmtsRVlmM3JmcnVKL3VUazI0clRXenBkU3Rzcm02WGFSbTcwMkhvZGJhVmNUQmc9PQo="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/UUOB-0.2.2-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2FFTmhPR1BoOUQ1VFJIQkRmTWIrZjg2QTNzcVluOTV5QkNNNnBWTExmM2pkdXJ3QlpWR09Fd1g0eXAxUUkvMFFwdVcvZEJhMUJxc3RITTg2d1JsTXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzcyMDY3CWZpbGU6VVVPQi0wLjIuMi1tYWMuYXBwLnRhci5negprTzZZNndZRjhHS1hwYzYwZmV1TWxZSWVZOWFobW9HUVBFd2JyRS9OLzFCMkdYeDhQUUxPVXloMGZYazNLR0Y5VFk2ZGlLTExVcFlTaHFabFBtNTdBUT09Cg=="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.3.0/UUOB-0.3.0-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1JrQVo5dHBMLzN3Q1grNlVKN0FaQTVrSFdzbDdOUjRjWGdTRmc2UFNtSFArMndJQ3lKQzI3ZEl0blZlSmtVaW9pRjRBbDdEeE9hd2hmbjNIZFRjYmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQxNTI5CWZpbGU6VVVPQi0wLjMuMC1tYWMuYXBwLnRhci5negpza000K2Jwd3VHbEtPMnFTYWhWZElnbUJCM0Jwa0ppUDdPNmFPaGlJMUpkdHpiZGppOWZET2JBcTNURm9wRUw3VlY5OXEzdE8rNkhvSS94WDljT2RDQT09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.2.2/UUOB-0.2.2-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2FFTmhPR1BoOUQ1VFJIQkRmTWIrZjg2QTNzcVluOTV5QkNNNnBWTExmM2pkdXJ3QlpWR09Fd1g0eXAxUUkvMFFwdVcvZEJhMUJxc3RITTg2d1JsTXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzcyMDY3CWZpbGU6VVVPQi0wLjIuMi1tYWMuYXBwLnRhci5negprTzZZNndZRjhHS1hwYzYwZmV1TWxZSWVZOWFobW9HUVBFd2JyRS9OLzFCMkdYeDhQUUxPVXloMGZYazNLR0Y5VFk2ZGlLTExVcFlTaHFabFBtNTdBUT09Cg=="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.3.0/UUOB-0.3.0-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1JrQVo5dHBMLzN3Q1grNlVKN0FaQTVrSFdzbDdOUjRjWGdTRmc2UFNtSFArMndJQ3lKQzI3ZEl0blZlSmtVaW9pRjRBbDdEeE9hd2hmbjNIZFRjYmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQxNTI5CWZpbGU6VVVPQi0wLjMuMC1tYWMuYXBwLnRhci5negpza000K2Jwd3VHbEtPMnFTYWhWZElnbUJCM0Jwa0ppUDdPNmFPaGlJMUpkdHpiZGppOWZET2JBcTNURm9wRUw3VlY5OXEzdE8rNkhvSS94WDljT2RDQT09Cg=="
     }
   }
 }

@@ -1,6 +1,6 @@
 cask "uuob-calendar" do
-  version "0.3.4"
-  sha256 "088e9a6973ec76c476bb9b93d5788b37958cae1bee43c707cc1a55cde169b90a"
+  version "0.4.0"
+  sha256 "afccc634390d6106c36f8d4884f6f6de8894126b2b39a0925566e2e9dae0387a"
 
   url "https://github.com/jachymri/uuob-releases/releases/download/calendar-v#{version}/Calendar-#{version}-mac.dmg"
   name "Calendar"

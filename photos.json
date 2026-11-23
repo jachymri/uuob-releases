@@ -1,18 +1,14 @@
 {
-  "version": "0.4.1",
-  "pub_date": "2026-11-21T02:05:55Z",
+  "version": "0.4.2",
+  "pub_date": "2026-11-23T00:51:30Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.4.1/Photos-0.4.1-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1I3Mkd3dmVCUjdhbjZVR2VDdW5Manc0bldIL1lMQmhIMnVITTVza3BPMHg5eGNxck1hMG5nbHRpZ1lDQUNuODc4cThxYVZOUHU5TVRzay90RGo0YVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2NTk0CWZpbGU6UGhvdG9zLTAuNC4xLWFybTY0LmFwawp4UzJGTEtKUjNzVDRDakp1WDJIeVM5T0owRmtpOE5yNEhkOFpSLy84c09UTWgxTkJqZSs0bjNieERSTms3UnhYdmd1bG5nSUR0cHg5b0xtZXJWdUVDUT09Cg=="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.4.2/Photos-0.4.2-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1Y1dDlyUlRpdjUxQXNaS2NXeDZmRStjVlhidTNTUlViRENGU0xoQTB3c2U4anFGTThLMk1adzVpaGJIVC8xVXVpdnNuSy9KZVNkdFo1VDdwbTg2emdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk1MDUwCWZpbGU6UGhvdG9zLTAuNC4yLWFybTY0LmFwawpDSHd3S2gzUUZlNjRtYUNCTC9waWJlN2JqOTBIWHp6Zk9vbUR0R3p4T21KZ3Q4Y1hvVUhnaHI2QjhwQjk1NGpscmFOemxVNlA4bjdXQjdsZ0hSVjVBQT09Cg=="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.4.1/Photos-0.4.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1dEd0M3LzhFK1psdThzb1JHNEp5RHdDdUdiOTJ2YjVFcGZFem9vRVRxUEtOcWZweW0reTRvSURpU21VRHZKSytBZ2pKZGcxL1VMQzY2L2JnKy83ZVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2NzQxCWZpbGU6UGhvdG9zLTAuNC4xLW1hYy5hcHAudGFyLmd6CnpaTktDYk5ZbHZIdVYxTEMyenJIZUhoVkVLemhnUHRXL04xUk4xa3ltTHhsTmtXdm5QdHVmWEJ0ODdDVDRFTHFWdUZBeTJ6T21PSFF0RHcvL3pZZUFBPT0K"
-    },
-    "darwin-x86_64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.4.1/Photos-0.4.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1dEd0M3LzhFK1psdThzb1JHNEp5RHdDdUdiOTJ2YjVFcGZFem9vRVRxUEtOcWZweW0reTRvSURpU21VRHZKSytBZ2pKZGcxL1VMQzY2L2JnKy83ZVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2NzQxCWZpbGU6UGhvdG9zLTAuNC4xLW1hYy5hcHAudGFyLmd6CnpaTktDYk5ZbHZIdVYxTEMyenJIZUhoVkVLemhnUHRXL04xUk4xa3ltTHhsTmtXdm5QdHVmWEJ0ODdDVDRFTHFWdUZBeTJ6T21PSFF0RHcvL3pZZUFBPT0K"
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.4.2/Photos-0.4.2-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1JJWndac1J0T3R3LzIvMXQ4NlNCZjRaWlUrZDltY1lmZWU5RzhtSkxOYThtWER2eFJPYkJLV3ZCL2pmbjJ2RElFcm1aZGV2cldnZms0d291UURjaEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk1MDc3CWZpbGU6UGhvdG9zLTAuNC4yLW1hYy5hcHAudGFyLmd6CmcvdlZ6bHcwaU5zZ21WSTNWSXJndXl4emVqc3ZETisvVEtEbkFSNU16aW1EMmdpTCtOczRzZjZQNFdFOUFMU2JGSWhEUlY2Qkk4MDdKemtURUFiMkJBPT0K"
     }
   }
 }

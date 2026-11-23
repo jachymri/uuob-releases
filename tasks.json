@@ -1,18 +1,14 @@
 {
-  "version": "0.4.1",
-  "pub_date": "2026-11-21T02:00:07Z",
+  "version": "0.4.2",
+  "pub_date": "2026-11-23T00:52:58Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.4.1/Tasks-0.4.1-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1p3d3NxYnRDb2czR2tNcUgwdzFSTXFuNHlQQUl2YloxYnVYa2xlMmVQclJ6cmpPOEFVN0JxdXYwU3laa2k4WkVlY2pRYUsxalVzY2pENEg3SnJsTHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2MjgxCWZpbGU6VGFza3MtMC40LjEtYXJtNjQuYXBrCmxLQUdQMTBYTEo3M21LcmtRYnR4Q20wQnpwRnp5VGNHKzgxUVlPLzFOOVdXYllPdWp2UWhJeFV1aXB3RGhWdnQrUEpVLzRGcWN3ZlFxaExPSXhVWEFBPT0K"
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.4.2/Tasks-0.4.2-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1ZwTTdnRTQ0ZUdiV0VKZXVsNS9rMEhTV3lZTHlTeHU5RnhYM0EyY1pvVkNRaEtuTGQrU2FoMlB2WnV6K0ZjdDFOV2hRVlJoMGRGZzhKVHYzd1RrS2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk0ODkzCWZpbGU6VGFza3MtMC40LjItYXJtNjQuYXBrCjV5bm1xK0luL09NUHBOM3Q0OWs5VzlYamhXRFpvaEtjeFQ5a0c5S0ZmcHhUYVlMcUJ3WXZSTnowZE8wT2h3K0JNVGhhNWczdjlDMWVsa09ZaU9wVUN3PT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.4.1/Tasks-0.4.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1pWb1VJYUNDc0hqU3pOVzFnU0JLdENGM0V2VERTYjV5aUFoMStqN21Fc0pVcjRTZmpWUWFxUUdyYVFSRzVra3A1Y1Z4MzVMSmlxZkY3akdjc2IrYWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2Mzg5CWZpbGU6VGFza3MtMC40LjEtbWFjLmFwcC50YXIuZ3oKMGU4VVBrMVFiWUlxcTlySzIwUlhrSjVJV0VrUVpaWlkyOHlUb0sreVpzS0xtRGJNY1JMbFhSZHFLME9jdmFXU1BTZ2lvQzNrQ29DZzRVOXhTdG12Qmc9PQo="
-    },
-    "darwin-x86_64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.4.1/Tasks-0.4.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1pWb1VJYUNDc0hqU3pOVzFnU0JLdENGM0V2VERTYjV5aUFoMStqN21Fc0pVcjRTZmpWUWFxUUdyYVFSRzVra3A1Y1Z4MzVMSmlxZkY3akdjc2IrYWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2Mzg5CWZpbGU6VGFza3MtMC40LjEtbWFjLmFwcC50YXIuZ3oKMGU4VVBrMVFiWUlxcTlySzIwUlhrSjVJV0VrUVpaWlkyOHlUb0sreVpzS0xtRGJNY1JMbFhSZHFLME9jdmFXU1BTZ2lvQzNrQ29DZzRVOXhTdG12Qmc9PQo="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.4.2/Tasks-0.4.2-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1VvdDlNZTV3VFU2NmpIL29XaVFUMGhsMm94TTNxaUxUb2o5d2dYUUpQRForRkZtdHBYdTBHQTlneHNyWWxpU3c0Mi92Q0dScHRMUjIrOENrTzhxQ0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk0OTAxCWZpbGU6VGFza3MtMC40LjItbWFjLmFwcC50YXIuZ3oKYnZqMC9wUG9NK2VwSTRQTVlhMWEwNVY2bzdzWTlYUlNnZkFJc21GOEU4U1FvUDh1b1hDK2oxVmR1SDI5azZ5SVFGdG5UMmI5dVN3OHNYNFMzRk04QkE9PQo="
     }
   }
 }

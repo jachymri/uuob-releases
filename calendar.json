@@ -1,18 +1,14 @@
 {
-  "version": "0.4.1",
-  "pub_date": "2026-11-21T01:54:36Z",
+  "version": "0.4.2",
+  "pub_date": "2026-11-23T00:44:13Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.4.1/Calendar-0.4.1-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1VST2d5UVJrNlFIWkl2QTlOYVBlWHlJWDErZjhhS0JDU2t4elgrSHFWYTVhci9wdlhIaEVORDNmT3NlU0pCNFMzTStPdWV3M1NOUG5OVnBhVXVLcFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI1OTgyCWZpbGU6Q2FsZW5kYXItMC40LjEtYXJtNjQuYXBrCkk0R0M5OTRvWTZWaW1YL1NXMDRzazlKSUY2Smt4YjRoclpZU0ZtNkpaeE5EVkE4K3MwOStEUDN2dmtrOWVJbkVYMkQwWmx6TWVYRkgxU3NYMGV4Y0RnPT0K"
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.4.2/Calendar-0.4.2-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1Rxc0FlY2NsejM5QXNXSnZHTkV4dy9qQzY0bm1iNnpzNmVmVzQ3TjVYdDQrQ3UvUytxQmNtYlFRWVlwM2pySjhuUFVQTnhNeXNhWlpKL2EzZ25Zd3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk0NjA5CWZpbGU6Q2FsZW5kYXItMC40LjItYXJtNjQuYXBrCkxBZDBsZlZEY3NpMU95ZjlGYzB1RXFVb1Y0dTBIdXVJNUdidU81cksyY21KVXBQQ3NvRWxHTm52c2RJUTJrZmZ5WFdMR3Y3UzFQaWFkTlErZUJ6N0FRPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.4.1/Calendar-0.4.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2NySk5yd2k3VWJCYkp0STV6dzZpS0ord3kvUnBFWFhhRWxHQTBhZ2xZYlZpQ3pIRXh3QXBnNlowRHVFaUF2bkZXSUVudGlRd2hTNUREUCtmZEg3N1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2MDYwCWZpbGU6Q2FsZW5kYXItMC40LjEtbWFjLmFwcC50YXIuZ3oKM2IwZ0pEbzhsL3IrZkJtVFJUMFJBaDFBNm12ZXhicHB6bFo2RVNTSUxtcFkweXlLWVhRWU1PWnVqcWloMGF4SGNDMDRUS2xldlZ5R2JSZXhsK0ZORGc9PQo="
-    },
-    "darwin-x86_64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.4.1/Calendar-0.4.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2NySk5yd2k3VWJCYkp0STV6dzZpS0ord3kvUnBFWFhhRWxHQTBhZ2xZYlZpQ3pIRXh3QXBnNlowRHVFaUF2bkZXSUVudGlRd2hTNUREUCtmZEg3N1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjI2MDYwCWZpbGU6Q2FsZW5kYXItMC40LjEtbWFjLmFwcC50YXIuZ3oKM2IwZ0pEbzhsL3IrZkJtVFJUMFJBaDFBNm12ZXhicHB6bFo2RVNTSUxtcFkweXlLWVhRWU1PWnVqcWloMGF4SGNDMDRUS2xldlZ5R2JSZXhsK0ZORGc9PQo="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.4.2/Calendar-0.4.2-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2ZkOUJDamQ1cVQyd1hjd2ZLdDNFcFkwT1o5Y2hNQStZQXBBOUNWSHNFNEZ1bE1JVzM5QTVrNVQ5Z3ZleUVaZndOSW0zMHJZOHYrMG8vYmZQMm8vamd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk0NjM4CWZpbGU6Q2FsZW5kYXItMC40LjItbWFjLmFwcC50YXIuZ3oKcFBuZko3bm9rdG51SFlJUlgxTUQ2RlZ6dVVzWTVXS3BNRHFZVEFFdGxqaGtvb3FaSkM2UExPRldvZ2hhRENkQm5neTBuVUVDeUtUd3pjcXpabzJVQkE9PQo="
     }
   }
 }

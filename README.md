@@ -8,7 +8,7 @@ All of it is open source: [github.com/UUOB](https://github.com/UUOB).
 
 | App | Version | Android | Mac |
 | --- | --- | --- | --- |
-| **UUOB** | 0.4.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.1/UUOB-0.4.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.1/UUOB-0.4.1-mac.dmg) |
+| **UUOB** | 0.4.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.2/UUOB-0.4.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.2/UUOB-0.4.2-mac.dmg) |
 | **Tasks** | 0.4.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.4.1/Tasks-0.4.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.4.1/Tasks-0.4.1-mac.dmg) |
 | **Calendar** | 0.4.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.4.2/Calendar-0.4.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.4.2/Calendar-0.4.2-mac.dmg) |
 | **Photos** | 0.4.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.4.1/Photos-0.4.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.4.1/Photos-0.4.1-mac.dmg) |
@@ -28,7 +28,7 @@ UUOB on your other devices, whichever of them is on.
   ```
   https://jachymri.github.io/uuob-releases/fdroid/repo?fingerprint=3BE594965991D33F960870832B42EC62690731D45EEB13158B7C2A732A12ABA8
   ```
-- **Mac** (Apple silicon and Intel): open the file and drag the app to Applications. The apps are not signed
+- **Mac** (Apple silicon): open the file and drag the app to Applications. The apps are not signed
   with an Apple developer account, so the first time macOS blocks them: go to System Settings → Privacy &
   Security and choose **Open Anyway**.
 - **Mac with Homebrew**: this repo is also a tap.
@@ -58,8 +58,8 @@ uuob keep on
 uuob autostart on|off    # start by itself when the computer turns on, or only with `uuob run`
 ```
 
-`uuob help` lists the other commands. The program by itself: [ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.1/uuob-0.4.1-linux-arm64),
-[Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.1/uuob-0.4.1-linux-amd64).
+`uuob help` lists the other commands. The program by itself: [ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.2/uuob-0.4.2-linux-arm64),
+[Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.2/uuob-0.4.2-linux-amd64).
 
 ## Updating
 

@@ -8,7 +8,7 @@ All of it is open source: [github.com/UUOB](https://github.com/UUOB).
 
 | App | Version | Android | Mac |
 | --- | --- | --- | --- |
-| **UUOB** | 0.4.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.2/UUOB-0.4.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.2/UUOB-0.4.2-mac.dmg) |
+| **UUOB** | 0.5.0 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.0/UUOB-0.5.0-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.0/UUOB-0.5.0-mac.dmg) |
 | **Tasks** | 0.4.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.4.2/Tasks-0.4.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.4.2/Tasks-0.4.2-mac.dmg) |
 | **Calendar** | 0.4.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.4.2/Calendar-0.4.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.4.2/Calendar-0.4.2-mac.dmg) |
 | **Photos** | 0.4.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.4.2/Photos-0.4.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.4.2/Photos-0.4.2-mac.dmg) |
@@ -58,8 +58,8 @@ uuob keep on
 uuob autostart on|off    # start by itself when the computer turns on, or only with `uuob run`
 ```
 
-`uuob help` lists the other commands. The program by itself: [ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.2/uuob-0.4.2-linux-arm64),
-[Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.4.2/uuob-0.4.2-linux-amd64).
+`uuob help` lists the other commands. The program by itself: [ARM (Raspberry Pi)](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.0/uuob-0.5.0-linux-arm64),
+[Intel/AMD](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.0/uuob-0.5.0-linux-amd64).
 
 ## Updating
 

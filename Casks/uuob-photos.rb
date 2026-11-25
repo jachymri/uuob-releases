@@ -10,4 +10,7 @@ cask "uuob-photos" do
   depends_on arch: :arm64
 
   app "Photos.app"
+
+  # Quit before an upgrade; brew upgrade then reopens it if it was running.
+  uninstall quit: "app.uuob.photos"
 end

@@ -10,4 +10,7 @@ cask "uuob" do
   depends_on arch: :arm64
 
   app "UUOB.app"
+
+  # Quit before an upgrade; brew upgrade then reopens it if it was running.
+  uninstall quit: "app.uuob"
 end

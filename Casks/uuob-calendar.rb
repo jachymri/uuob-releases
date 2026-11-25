@@ -10,4 +10,7 @@ cask "uuob-calendar" do
   depends_on arch: :arm64
 
   app "Calendar.app"
+
+  # Quit before an upgrade; brew upgrade then reopens it if it was running.
+  uninstall quit: "app.uuob.calendar"
 end

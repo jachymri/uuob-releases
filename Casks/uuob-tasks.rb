@@ -10,4 +10,7 @@ cask "uuob-tasks" do
   depends_on arch: :arm64
 
   app "Tasks.app"
+
+  # Quit before an upgrade; brew upgrade then reopens it if it was running.
+  uninstall quit: "app.uuob.tasks"
 end

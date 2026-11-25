@@ -1,14 +1,14 @@
 {
-  "version": "0.5.0",
-  "pub_date": "2026-11-23T20:52:29Z",
+  "version": "0.5.1",
+  "pub_date": "2026-11-25T13:41:19Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.5.0/Photos-0.5.0-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1VDcjVmMlBaeXlZdERHOTI1UU04MEoyU3NoUTdxWk50bG90Y1g0diswQnVFZlJldzFtYjlSam1nNG5FckowWHhKcmlpWmtxRnVoSUR5dTVKYjhmd1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDY2ODgwCWZpbGU6UGhvdG9zLTAuNS4wLWFybTY0LmFwawpRRTA0bGlBWVhuOTZpbzdQU0wzNTFaclIyeERsa1NLSEs3TUtZc21YR0VObUt6Y1FVYkVvZ3lxNFpoTDJDTkVsSER6OGJnMmdPclNiTDEvdDJBT3ZDUT09Cg=="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.5.1/Photos-0.5.1-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2NPa1FjWHBSSmtXbDJQMm5xQVBIUnhFM3BaUTRTMkwxQ1ArMUE3T290cVE5V2xWTUpDVkVSSHBDTTdFQU5ueWg2b3hXRXQ0bzJrbnlXT0ZnU1ViMUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE0MDUzCWZpbGU6UGhvdG9zLTAuNS4xLWFybTY0LmFwawptN3FNT09pODNIRmF2WUxVTUZUS1Qvczd6MGNNRVRJUkVBd21wZTF3cmhlRW5uNEdnRFhadSs1L1IzaEdRMm9GU0FZQVNpSkl0NVJZMS84K1cydDJDZz09Cg=="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.5.0/Photos-0.5.0-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1RjajdVOTFnWmVKZ2xweUIzc2wzOG9tTEpjL1Ricm9CbkpyWjNNUzN2dWRMR0hTY056VGpEZ0ZyM0hFNmJpOWY1SGtIZ2F0WTdkckJxQWtoVFVSTUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDY3MTM1CWZpbGU6UGhvdG9zLTAuNS4wLW1hYy5hcHAudGFyLmd6Cm5nOEZUL3B4OWdzanpHaXhYK1VNcTRXSTVqY3lHOFhyQ2VVWjhTeGJ5bHZEZXBQaEhuTnEzSXVZRHlDRWp1eUlMbCtrZmhSbjJhMDVnRlNOK3dyd0NnPT0K"
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/photos-v0.5.1/Photos-0.5.1-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1VJUVNCVlJGdmthWHh4TU4xZHJwcUtDZ1ozenhPZFUwQnRWSldPZld1MWZBUjZ6M3RRQTE0RWtWYW45Y3ZTMzB3ZGJOdkk0U3BpZTJGWDgzaE9WcXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE0MDYxCWZpbGU6UGhvdG9zLTAuNS4xLW1hYy5hcHAudGFyLmd6CjZMdk1QQ1lsU2pYcTY3VVgwVFJyblJUczA2WW1yTDJYYXEzMTNMMGhHdDlJR0dtMWgrZlBxWXZTaVJHZnlGOVhBKzRiajdvNjVZNE0ySkF5QlJqckNBPT0K"
     }
   }
 }

@@ -1,6 +1,6 @@
 cask "uuob-photos" do
-  version "0.5.0"
-  sha256 "b8e5ad783f7b26cab4ed60986f813b398688baaa70a5e9b77811fe6f6ec8b726"
+  version "0.5.1"
+  sha256 "6e000d7b9b2ad738a7a8270eed4fb153c8e2f01fbed24a4eb209d679f24a366c"
 
   url "https://github.com/jachymri/uuob-releases/releases/download/photos-v#{version}/Photos-#{version}-mac.dmg"
   name "Photos"

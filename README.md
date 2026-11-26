@@ -10,7 +10,7 @@ All of it is open source: [github.com/UUOB](https://github.com/UUOB).
 | --- | --- | --- | --- |
 | **UUOB** | 0.5.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.2/UUOB-0.5.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.2/UUOB-0.5.2-mac.dmg) |
 | **Tasks** | 0.5.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.5.1/Tasks-0.5.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.5.1/Tasks-0.5.1-mac.dmg) |
-| **Calendar** | 0.5.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.5.1/Calendar-0.5.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.5.1/Calendar-0.5.1-mac.dmg) |
+| **Calendar** | 0.5.2 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.5.2/Calendar-0.5.2-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.5.2/Calendar-0.5.2-mac.dmg) |
 | **Photos** | 0.5.1 | [Download for Android](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.5.1/Photos-0.5.1-arm64.apk) | [Download for Mac](https://github.com/jachymri/uuob-releases/releases/download/photos-v0.5.1/Photos-0.5.1-mac.dmg) |
 
 ## Installing

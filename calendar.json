@@ -1,14 +1,14 @@
 {
-  "version": "0.5.1",
-  "pub_date": "2026-11-25T13:29:29Z",
+  "version": "0.5.2",
+  "pub_date": "2026-11-26T15:09:06Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.5.1/Calendar-0.5.1-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2IvTVRWQ2k2Qk5Rc25MY2Z3a3ZOUU1ZcTVkS0Q3SmZ5SXJDdFFLTTQvSTM5c2ZJam4xWklnSzF0Vnk4UUFSZzByN2xzRWg4a2ZBSEM1L1FWQ1VoUndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjEzMzQ2CWZpbGU6Q2FsZW5kYXItMC41LjEtYXJtNjQuYXBrCmNhVVRNakE5TmY3Q2tGRFc4bmE1ZVlQL3M1R2JXZnlMK2Y3QmhyOGFaSS9RTldlaXJhY09hcW0rVCtoOVRxSlUramRDaU1sa1Vabjl1dHVuVlg3SUJ3PT0K"
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.5.2/Calendar-0.5.2-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1JpK1gvZ1Y5ZVZlSDFpL3RWWTJxSkpESUhhbDY3czIveWR3ZXpoTE9rT3lvejNqZDdoZVZmdzVqRnZrdXV1RVlRbitqdldhNmV5MTcwMGJnL0s1bmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1NzIzCWZpbGU6Q2FsZW5kYXItMC41LjItYXJtNjQuYXBrCnVXdkRZenJHTXhIbHZqeDZBYW5kU2V3ZkVXM0JIZkhWUjVqYS9WWTFYRitnUUZjOXVSWlA0RDNLRHVWbHA3K2tlejlKOHpERzJjKzNqUUlIbWtwOURBPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.5.1/Calendar-0.5.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2VuYWFUdnRsU3ZKZ1pZRUM2dUtuWDc4Z245Q0ZITVM5Rmo3WFV5WlFsdmJYSG5OeERheEpBQjJIL0ZvWXNtUWV0ck1WS1Z1NWJpSlArcVRMZ0o3NFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjEzMzU0CWZpbGU6Q2FsZW5kYXItMC41LjEtbWFjLmFwcC50YXIuZ3oKRHNSSXNzOUNHU1BtMmJ6NkJLdGtyQlUwSjJtN0lNTDBacEM4Mm1tVU0zRHcrRnA4VDF3eGVoVGgrYmVCK24yc3pUa3dMYUE4UFp0RmF1S2szQVY4Qnc9PQo="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/calendar-v0.5.2/Calendar-0.5.2-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1RhVjV4cC9mRkpzN1AwNWZDWC9YcUNpZ2ZQTHp2OTJaRHg3dHJmNCtUaWRuSUZaVnFXZXVBMk83dWZrMGtNcnltVkdMMnVvblNJcXBTTldYL1lYZlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1NzMyCWZpbGU6Q2FsZW5kYXItMC41LjItbWFjLmFwcC50YXIuZ3oKWG9ucHBQSjVvRVdZLzNmc01vcUZXZmViNlVVQytya2wrNWd2MVh3c1NJVVZXS05EVU9qejNESGd1SFVCNzBrK1NSMDE2RkxzR2RLL1U0cmlGdTZCQUE9PQo="
     }
   }
 }

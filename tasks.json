@@ -1,14 +1,14 @@
 {
-  "version": "0.5.2",
-  "pub_date": "2026-11-26T15:14:50Z",
+  "version": "0.5.3",
+  "pub_date": "2026-11-26T18:29:48Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.5.2/Tasks-0.5.2-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1Q3eHMrblRjNS9HWTN3Rk9taEIwaEtPcTFUQTBESzJ3YkN6MkZpek9qczBKeTYwa2htcmdjTlkxYzZjaHBYT09FSDhkTzE3akpoL1Q1R2xCamR0Q2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA2MDY4CWZpbGU6VGFza3MtMC41LjItYXJtNjQuYXBrCnpWNDlad2RCNlAyTnJlckVYYlNzeXhBbGZIRHNhRi8xM1RNelFsOCs4TklaREF6N0xUWXBEUjNZZ3E1SXViOEFZOUNvbUlQbXVUeVE5bGEwYkxpbUFBPT0K"
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.5.3/Tasks-0.5.3-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1Noa3d2Z1VpT0U0TmFTbGN6a1BGeFJXSllZc21TSlJqVDhCTHgxciswR1NyUzJtNWJWUWJpTHlOTzI2b0JRMWEvTlA1WHlhaGtDalljS3FnRnNFRHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzE3NzY3CWZpbGU6VGFza3MtMC41LjMtYXJtNjQuYXBrCndYcmpvUnB1YitEcXZFR293MmFrOGsxckp0U0Nub1FaNDFBNEI0c2N1MlUwRUZZRXdVVFJSRXNkNUgvUjdVMnF3Njg2NDk4NDlTTDE2OXhuZ1AvcENnPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.5.2/Tasks-0.5.2-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1NpYlBjTHhqbGJteDZZajdXZlpvckhEbUcwRCtLcm93ZmhlbGRTVnkzR2tLemhCQ3JBbTBkMVZpMkw1a1lTMTV5TVVXSzNyRWlXVnJXcG1OQVhOS1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA2MDc2CWZpbGU6VGFza3MtMC41LjItbWFjLmFwcC50YXIuZ3oKamZwcnRKUmpFakk0dVpiNVo3ODZ4TEdYUkZ6SlpocG93d2xHV1k2YzV1QWYrYWM5bzhTd0VjOGVsL0ZkQ1FQVEwrbDVpK3EySDl6TElWYm5lK0tGQXc9PQo="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/tasks-v0.5.3/Tasks-0.5.3-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1hoQXFiV3czQ2c5eUlka0hLU1hwVk9ZelFWdXRKYmFGTWVKeXZCdklhcUQ4ZHZXT1Bjam53REgxcWNJc2xsMXFrQzdqV1dJU2FSOG1GZ0JmYVVtcVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzE3Nzc1CWZpbGU6VGFza3MtMC41LjMtbWFjLmFwcC50YXIuZ3oKS1dyQWsvU05ZUXk5a3RMcmowOXBBd3lyU3kxRTRIcWhoN1FQZ3UzM1JxRWN3c3FsdlFGdnlua3FieEFNZjNZOUROU2V2cmUvczJyNC94N2QwNjYvQnc9PQo="
     }
   }
 }

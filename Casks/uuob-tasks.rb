@@ -1,6 +1,6 @@
 cask "uuob-tasks" do
-  version "0.5.2"
-  sha256 "d5a43a38c83d7a0b7136669119218be61e11349f1a1dc8df940b9be9e4ec4fca"
+  version "0.5.3"
+  sha256 "33f4c599fa8a9afa89120ca8fea435deb8c37e22395872fe42395f416da29e6d"
 
   url "https://github.com/jachymri/uuob-releases/releases/download/tasks-v#{version}/Tasks-#{version}-mac.dmg"
   name "Tasks"

@@ -1,14 +1,14 @@
 {
-  "version": "0.5.1",
-  "pub_date": "2026-11-25T14:03:29Z",
+  "version": "0.5.2",
+  "pub_date": "2026-11-26T15:02:52Z",
   "platforms": {
     "android-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.1/UUOB-0.5.1-arm64.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2FHWEhVODJBalN5dEd5WVZuRDdETW5xeXJEdldCTCt0ODd0T0JmbTJ3c0ZTWEVScjN4Y0lBY1lTYkIxYXhaZm1RZEdrRlBwODAzU2Z3RDhIV2drWGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE0NTAxCWZpbGU6VVVPQi0wLjUuMS1hcm02NC5hcGsKWUM4Ky9kblN0U0FrRTMvS2pqdGJwRHZmblpZN1VNazlFcGlGaE9VOTQ5cUYzZjNtMHc3ZnRMTWtOLzUvRkp5aHRFUXlQbC9OZm5JbDFJa0VqcXFmRHc9PQo="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.2/UUOB-0.5.2-arm64.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1ZqYmlScnFBTkl1Y1VOb1F2TmRVNVE2c2tPTzRPUituRHlmRjFJYWs2ZnZyS1BmQUllVUh5STI0NU0zNXh2dTI0bTlhdTRwK3VkTUwyK1Y0b1BQblFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA0NzI5CWZpbGU6VVVPQi0wLjUuMi1hcm02NC5hcGsKL2FBNk9GOERiSzZqVlk3WHNKUy8zVUpCWTkxbytFSnZ3eHZWa29xbDlyMDhROG1zc3lLblZjSWFXWTh2eG9xZnN4R0x6VEdXTU8xejhIeDRQRXExQ3c9PQo="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.1/UUOB-0.5.1-mac.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV1huK2xuOWxkTHY3WU5aOW4rZzNFYWtuRUpwRjhocktNUmFMWG1zcDhWOSt5cnNqbUEvV3NuS1B5UVdGSWNvZEN3UmtpWHVUemk2VjVIRG4vVkI1aHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE1Mzc3CWZpbGU6VVVPQi0wLjUuMS1tYWMuYXBwLnRhci5negpRZVlkMi9uQWNMUmh4TkRiMVNsRm5rc2c4OFN0L3pLdVphS2liNit6NG9DZEd0MW1SU0NjK2NBQTdyRElxRk42RDBUTnMySEYycHJtY3dhNVVwbWdBQT09Cg=="
+      "url": "https://github.com/jachymri/uuob-releases/releases/download/uuob-v0.5.2/UUOB-0.5.2-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUpKV3dPbkcyV2VHSERBd2N4clNQVzNvdWpiSFRKWlNiZ1Ard0FJdy9mV0dFZUw3dit1WkNpUDBla0dQS0lCeFh0VEs3VjFMS0ZlZDJ3U1ZTelFGVjR2ZEpMYk4yYWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1MzQ3CWZpbGU6VVVPQi0wLjUuMi1tYWMuYXBwLnRhci5negpkalV6RkovUDAyZGRKR2FsbGFleTZJQ2dWZ1JReEhxM0lUU2pTMkNmYm0zaUJQL1hEVTkrM01wV1lsdVpwb3lSeGtpZ0NIS21VenFMZFV2aDdYSVFCUT09Cg=="
     }
   }
 }
